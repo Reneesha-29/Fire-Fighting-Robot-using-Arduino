@@ -1,8 +1,8 @@
 <h1 align="center">Fire Fighting Robot using Arduino</h1>
 
 <p align="center">
-<img width="450" height="400" alt="Image" src="https://github.com/user-attachments/assets/48e31fb2-7952-47d5-96fc-774f16f021ef" />
-<img width="450" height="400" alt="Image" src="https://github.com/user-attachments/assets/0519448f-e78f-45dc-887e-1f1a7f9e89c1" />
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/48e31fb2-7952-47d5-96fc-774f16f021ef" />
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/0519448f-e78f-45dc-887e-1f1a7f9e89c1" />
 </p>
 <hr>
 
