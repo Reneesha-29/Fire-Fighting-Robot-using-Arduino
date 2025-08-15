@@ -22,7 +22,9 @@
 
 
 <h2> 🛠️ Circuit Diagram </h2>
-<p> You can view the full circuit diagram for connecting all the components to the Arduino circuit fiagram.png </p>
+<p> You can view the full circuit diagram for connecting all the components to the Arduino here:
+  ![image alt](https://github.com/Reneesha-29/Fire-Fighting-Robot-using-Arduino/blob/e4f3916822677ab4cc8be7b348b26c8ae7735570/circuit%20fiagram.png)
+ </p>
 
 <h2> 🛑 Flow Chart </h2>
 
