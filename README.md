@@ -1,5 +1,9 @@
 <h1 align="center">Fire Fighting Robot using Arduino</h1>
 
+<p align="center">
+<img width="450" height="400" alt="Image" src="https://github.com/user-attachments/assets/48e31fb2-7952-47d5-96fc-774f16f021ef" />
+<img width="450" height="400" alt="Image" src="https://github.com/user-attachments/assets/0519448f-e78f-45dc-887e-1f1a7f9e89c1" />
+</p>
 <hr>
 
 <p> Fire-related accidents have, on average, killed 35 people every day in the five years between 2016 and 2020, according to a report by Accidental Deaths and Suicides in India (ADSI), maintained by the National Crime Records Bureau. In the event of a fire breakout, to rescue people and to put out the fire we are forced to use human resources which are not safe. With the advancement of technology especially in Robotics it is very much possible to replace humans with robots for fighting the fire. This would improve the efficiency of firefighters and would also prevent them from risking human lives. We are going to build a Fire Fighting Robot using Arduino, which will automatically sense the fire and start the water pump. In this project, we will build a simple robot using Arduino that could move towards the fire and pump out water around it to put down the fire. </p>
